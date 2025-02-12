@@ -1,6 +1,6 @@
 ---
 name: Hackathon Support Request
-about: Hubs can request DevRel support to assist with providing technical guidance, mentorship, and resources for hackathons.
+about: Hubs can request DevRel support to assist with providing mentorship, workshop talk, judging and resources for hackathons.
 title: "[Hackathon Support]"
 labels: vertical:hackathon
 assignees: ""
@@ -17,10 +17,6 @@ _e.g., https://lu.ma/123445_
 ### Hackathon Date: When will the hackathon take place? (Start and end date)
 
 _e.g., March 15-17, 2025_
-
-### Timezone: In which timezone is the startup located? (This helps us schedule calls and support sessions.)
-
-_e.g., UTC+0 (GMT - Greenwich Mean Time)_
 
 ### Location: Where will the hackathon take place? (City, Country, or Online)
 
@@ -42,4 +38,4 @@ _e.g., We need a DevRel to mentor participants on smart contract development in 
 
 ### Contact Person: Who should we reach out to for coordination?
 
-_e.g., John Doe (Email: john.doe@example.com, Discord: jhon_doe)_
+_e.g., John Doe_
