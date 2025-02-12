@@ -36,6 +36,3 @@ _e.g., ICP Hub Brasil_
 
 _e.g., We need a DevRel to mentor participants on smart contract development in ICP..._
 
-### Contact Person: Who should we reach out to for coordination?
-
-_e.g., John Doe_
