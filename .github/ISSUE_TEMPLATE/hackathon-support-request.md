@@ -26,7 +26,7 @@ _e.g., San Francisco, USA / Virtual_
 
 _e.g., ICP Hub Brasil_
 
-### Type of DevRel Support Needed: What type of support do you need?
+### Type: What type of support do you need?
 
 - [x] Technical Mentorship x1
 - [ ] Workshop / Talk x0
