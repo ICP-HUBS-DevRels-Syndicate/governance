@@ -1,6 +1,6 @@
 ---
 name: Startup Support Request
-about: Hubs can request DevRel support to provide technical guidance and resources to startups.
+about: Hubs can request DevRel support to provide technical guidance or IC business mentorship to startups.
 title: "[Startup Support]"
 labels: vertical:entrepreneurship
 assignees: ""
@@ -14,30 +14,24 @@ _e.g., NextGen Web3 Inc._
 
 _e.g., https://nextgenweb3.io_
 
-### Startup Description: Provide a brief description of what the startup does.
+### Startup Timezone: In which timezone is the startup located? (This helps us schedule calls and support sessions.)
 
-_e.g., A Web3 startup building decentralized identity solutions..._
+_e.g., UTC+0 (GMT - Greenwich Mean Time)_
 
 ### Startup Hub: Which hub is supporting or working with this startup?
 
 _e.g., ICP Hub Brasil_
 
-### Type of DevRel Support Needed: What type of support does the startup require?
+### Type: What type of support does the startup require?
 
-- [x] Technical Mentorship
-- [ ] Architecture Guidance
-- [ ] Integration Support
-- [ ] Developer Resources & Documentation
+- [x] Technical : Debugging
+- [ ] Technical : Architecture & Integrations
+- [ ] Technical : Advance Topics / Training
+- [ ] Business : Product Market-Fit & Partnerships
+- [ ] Business : SNS & Fundraising
+- [ ] Business : Marketing & IC KOLs
 - [ ] Other (Specify in Description)
 
 ### Additional Details: Provide more details on the kind of support required, expected responsibilities, and any other relevant information.
 
 _e.g., We need a DevRel to guide the startup on integrating their solution with ICP smart contracts..._
-
-### Contact Person: Who should we reach out to for coordination?
-
-_e.g., Jane Doe (Email: jane.doe@example.com, Discord: jane_doe)_
-
-### Timezone: In which timezone is the startup located? (This helps us schedule calls and support sessions.)
-
-_e.g., UTC+0 (GMT - Greenwich Mean Time)_
