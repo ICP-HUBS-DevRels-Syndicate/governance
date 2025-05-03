@@ -16,7 +16,7 @@ assignees: "tiagoicp"
 
 ### Please describe your need, especially goals
 
-_e.g., March 15-17, 2025_
+_e.g., Startup FooBar needs a mentorship session to ..._
 
 ### Any relevant links
 
