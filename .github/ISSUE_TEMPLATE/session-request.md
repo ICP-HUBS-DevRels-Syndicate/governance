@@ -1,6 +1,6 @@
 ---
-name: Session Support Request
-about: DevRel support session, should be contained within one or multiple 1h work session(s).
+name: Session Request
+about: Any DevRel quick support, should be contained within one or multiple 1h work session(s).
 title: "[Session]"
 labels: vertical:sessions
 assignees: "tiagoicp"
