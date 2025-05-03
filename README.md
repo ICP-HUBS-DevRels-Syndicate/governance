@@ -21,5 +21,5 @@ Primary comment to be used by core team on every issue
 - [ ] Scope previewed and approved
 - [ ] Work delivered and verified
 - [ ] Payment processed
-- [ ] Evidence added to [Google Sheet](https://your-link-here)
+- [ ] Amount and evidence added to [Report Sheet](https://docs.google.com/spreadsheets/d/139jVzIH2NPudxE890x_efMpi1iqenzU8SgMwc2-xXTI/edit?usp=sharing)
 ```
