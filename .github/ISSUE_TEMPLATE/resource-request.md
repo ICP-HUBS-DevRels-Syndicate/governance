@@ -3,7 +3,7 @@ name: Resource Request
 about: Hubs or DevRels can request resources to be used on Meetups, Workshops, Courses or Hackathons.
 title: "[Resource]"
 labels: vertical:resources
-assignees: "adrian-d-hidalgo"
+assignees: "Stephen-Kimoi"
 ---
 
 ### What type of resource you need to be developed or improved?
