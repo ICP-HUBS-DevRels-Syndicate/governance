@@ -1,38 +1,27 @@
 ---
-name: Hackathon Support Request
-about: Hubs can request DevRel support to assist with providing mentorship, workshop talk, judging and resources for hackathons.
-title: "[Hackathon Support]"
-labels: vertical:hackathon
-assignees: ""
+name: Session Support Request
+about: DevRel support session, should be contained within one or multiple 1h work session(s).
+title: "[Session]"
+labels: vertical:sessions
+assignees: "tiagoicp"
 ---
 
-### Hackathon Name: What is the name of the hackathon?
+### What type of DevRel support session(s) you need?
 
-_e.g., Global Blockchain Hackathon 2025_
+- [ ] Startup Mentorship Session
+- [ ] Workshop Session
+- [ ] Internal Training Session
+- [ ] Review of Anything Session
+- [ ] Other
 
-### Hackathon Website: Where can we find more information about your hackathon?
-
-_e.g., https://lu.ma/123445_
-
-### Hackathon Date: When will the hackathon take place? (Start and end date)
+### Please describe your need, especially goals
 
 _e.g., March 15-17, 2025_
 
-### Location: Where will the hackathon take place? (City, Country, or Online)
+### Any relevant links
 
-_e.g., San Francisco, USA / Virtual_
+_e.g., https://lu.ma/123445_
 
-### Hub: Which hub is supporting or working with this hackathon?
+### Which HUB will this benefit?
 
 _e.g., ICP Hub Brasil_
-
-### Type: What type of support do you need?
-
-- [x] Technical Mentorship x1
-- [ ] Workshop / Talk x0
-- [ ] Judging x0
-
-### Additional Details: Provide more details on the kind of support required, expected responsibilities, and any other relevant information.
-
-_e.g., We need a DevRel to mentor participants on smart contract development in ICP..._
-
