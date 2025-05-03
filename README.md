@@ -22,4 +22,5 @@ Primary comment to be used by core team on every issue
 - [ ] Work delivered and verified
 - [ ] Payment processed
 - [ ] Amount and evidence added to [Report Sheet](https://shorturl.at/uzb7u)
+- [ ] Status updated to Done 🎉
 ```
