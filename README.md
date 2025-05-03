@@ -18,7 +18,7 @@ Primary comment to be used by core team on every issue
 
 ## ✅ Checklist
 
-- [ ] Scope previewed and approved
+- [ ] Scope previewed and [budgeted](https://shorturl.at/Sie4U)
 - [ ] Work delivered and verified
 - [ ] Payment processed
 - [ ] Amount and evidence added to [Report Sheet](https://shorturl.at/uzb7u)
