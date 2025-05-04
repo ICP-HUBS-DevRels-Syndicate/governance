@@ -1,7 +1,7 @@
 name: Resource Request
 description: Hubs or DevRels can request resources to be used on Meetups, Workshops, Courses or Hackathons.
 title: "[Resource] <title>"
-labels: "vertical:resources"
+labels: "vertical:resource"
 assignees: "Stephen-Kimoi"
 body:
   - type: dropdown
