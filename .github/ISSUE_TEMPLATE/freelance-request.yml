@@ -1,10 +1,8 @@
 name: Freelance Request
 description: Dfinity (Global Adoption Team) requests support on a key project.
 title: "[Freelance] <title>"
-labels:
-  - "vertical:freelance"
-assignees:
-  - "adrian-d-hidalgo"
+labels: "vertical:freelance"
+assignees: "adrian-d-hidalgo"
 body:
   - type: input
     id: project-name
