@@ -1,7 +1,7 @@
 name: Session Request
 description: Any DevRel quick support, should be contained within one or multiple 1h work session(s).
 title: "[Session] <title>"
-labels: "vertical:sessions"
+labels: "vertical:session"
 assignees: "tiagoicp"
 body:
   - type: dropdown
