@@ -33,6 +33,6 @@ body:
     id: stack-language
     attributes:
       label: "What is the desired language / stack?"
-      description: e.g., Backend: Motoko/Rust, Frontend: React/Vue, Other tools: DFX, IC CDK, etc.      
+      description: "e.g., Backend: Motoko/Rust, Frontend: React/Vue, Other tools: DFX, IC CDK, etc."      
     validations:
       required: true
