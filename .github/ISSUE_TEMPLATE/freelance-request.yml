@@ -1,0 +1,37 @@
+name: Freelance Request
+description: Dfinity (Global Adoption Team) requests support on a key project.
+title: "[Freelance] <title>"
+labels:
+  - "vertical:freelance"
+assignees:
+  - "adrian-d-hidalgo"
+body:
+  - type: input
+    id: project-name
+    attributes:
+      label: What is the name of the key project?
+      placeholder: e.g., Onchain Academy
+    validations:
+      required: true
+
+  - type: input
+    id: primary-client
+    attributes:
+      label: Who is the Primary Client Representative?
+      placeholder: e.g., Iana
+    validations:
+      required: true
+
+  - type: textarea
+    id: need-description
+    attributes:
+      label: Please describe your need, especially goals.
+      placeholder: e.g., To deliver higher quality content on Hubs Network...
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-details
+    attributes:
+      label: Provide additional details on expected responsibilities, and any other relevant information.
+      placeholder: e.g., We need slides to be delivered for review 5 days before session...
