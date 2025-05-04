@@ -1,7 +1,7 @@
 name: Internal Request
 description: Internal work, like coordination, review or payments processing.
 title: "[Internal] <title>"
-labels: vertical:internal
+labels: "vertical:internal"
 assignees: "tiagoicp"
 body:
 - type: dropdown
@@ -15,6 +15,7 @@ body:
       - Other
   validations:
     required: true
+
 - type: textarea
   attributes:
     label: "Describe Work"
