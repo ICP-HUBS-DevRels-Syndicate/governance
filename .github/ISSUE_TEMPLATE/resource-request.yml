@@ -1,0 +1,38 @@
+name: Resource Request
+description: Hubs or DevRels can request resources to be used on Meetups, Workshops, Courses or Hackathons.
+title: "[Resource] <title>"
+labels: "vertical:resources"
+assignees: "Stephen-Kimoi"
+body:
+  - type: dropdown
+    id: resource-type
+    attributes:
+      label: Resource type?
+      description: What type of resource you need to be developed or improved?
+      multiple: true
+      options:
+        - Slides on a topic
+        - Course Module
+        - ICP Ninja Sample Project
+        - Hackathon Boilerplate
+        - Hackathon Challenge
+        - Code Contribution (on an external repo)
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: need-description
+    attributes:
+      label: Please describe your need, especially goals
+      placeholder: e.g., Slides for an AI on Chain Workshop
+    validations:
+      required: true
+
+  - type: input
+    id: stack-language
+    attributes:
+      label: What is the desired language / stack?
+      placeholder: e.g., Backend: Motoko/Rust, Frontend: React/Vue, Other tools: DFX, IC CDK, etc.
+    validations:
+      required: true
