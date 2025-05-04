@@ -1,0 +1,52 @@
+name: Session Request
+description: Any DevRel quick support, should be contained within one or multiple 1h work session(s).
+title: "[Session] <title>"
+labels: "vertical:sessions"
+assignees: "tiagoicp"
+body:
+  - type: dropdown
+    id: session-type
+    attributes:
+      label: Session Type
+      description: "What type of DevRel support session(s) you need?"
+      multiple: true
+      options:
+        - Startup Mentorship Session
+        - Workshop Session
+        - Internal Training Session
+        - Review of Anything Session
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: requestor
+    attributes:
+      label: Requested by      
+      placeholder: e.g., Bruno C.
+    validations:
+      required: true
+  
+  - type: input
+    id: hub-benefit
+    attributes:
+      label: Which HUB will this benefit?
+      placeholder: e.g., ICP HUB Brasil, None directly 
+    validations:
+      required: true
+
+  - type: textarea
+    id: need-description
+    attributes:
+      label: "Description"
+      description: "Please describe your need, especially goals"
+      placeholder: "e.g., Startup FooBar needs a mentorship session to ..."
+    validations:
+      required: true
+
+  - type: input
+    id: links
+    attributes:
+      label: Links
+      description: "Any relevant links?"
+      placeholder: "e.g., https://lu.ma/123445"
