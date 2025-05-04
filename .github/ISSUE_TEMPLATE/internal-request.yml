@@ -13,8 +13,12 @@ body:
       - Internal Code / Project
       - Internal Training
       - Other
+  validations:
+    required: true
 - type: textarea
   attributes:
     label: "Describe Work"
     description: "Please describe the work and add any relevant information"
     placeholder: "Processing vertical sessions issues for the quarter of..."
+  validations:
+      required: true
