@@ -1,0 +1,20 @@
+name: Internal Request
+description: Internal work, like coordination, review or payments processing.
+title: "[Internal] <title>"
+labels: vertical:internal
+assignees: "tiagoicp"
+body:
+- type: dropdown
+  attributes:
+    label: "What type of Internal work?"
+    options:
+      - Coordination, Issues & Payments
+      - General Meetings
+      - Internal Code / Project
+      - Internal Training
+      - Other
+- type: textarea
+  attributes:
+    label: "Describe Work"
+    description: "Please describe the work and add any relevant information"
+    placeholder: "Processing vertical sessions issues for the quarter of..."
