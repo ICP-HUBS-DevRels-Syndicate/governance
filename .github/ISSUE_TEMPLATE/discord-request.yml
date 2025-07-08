@@ -1,0 +1,22 @@
+name: Discord Request
+description: Discord Support, including maintenance, tickets and office hours
+title: "[Discord] <title>"
+labels: "vertical:discord"
+assignees: "espieux"
+body:
+  - type: input
+    id: duration
+    attributes:
+      label: Duration
+      placeholder: e.g., 3 months
+    validations:
+      required: true
+  
+  - type: textarea
+    id: need-description
+    attributes:
+      label: "Description"
+      description: "Please describe your need, especially goals"
+      placeholder: "e.g., Do weekly office hours, to ensure projects are capable of submitting"
+    validations:
+      required: true
